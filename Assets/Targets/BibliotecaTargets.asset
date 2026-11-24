@@ -27,3 +27,13 @@ MonoBehaviour:
     m_SpecifySize: 1
     m_Name: TargetSnorunt
     m_Texture: {fileID: 0}
+  - m_SerializedGuid:
+      m_GuidLow: 4894604707833240006
+      m_GuidHigh: 10694399945182247332
+    m_SerializedTextureGuid:
+      m_GuidLow: 5095155727280268895
+      m_GuidHigh: 16893418484104362410
+    m_Size: {x: 0.063, y: 0.088}
+    m_SpecifySize: 1
+    m_Name: TargetGengar
+    m_Texture: {fileID: 0}
